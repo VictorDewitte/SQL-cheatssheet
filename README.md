@@ -34,7 +34,7 @@ WHERE [Selectievoorwaade] LIKE ['%P'];
 naam beginnend met P: ’P%’ \
 naam eindigend op C: ’%C’ \
 naam beginnend met ABC: ’ABC%’ \
-naam eindigend met XYZ: ’XYZ%’ \
+naam eindigend met XYZ: ’%XYZ’ \
 naam beginnend met A en eindigend op C: ’A%C’ \
 naam die ergens SON bevat: ’%SON%’ <br><br>
 
